@@ -26,16 +26,16 @@ The dashboard helps identify trends and insights using data visualization and an
 ## Dashboard Preview
 
 ### Page 1
-![Dashboard Page 1](Images/dashboard_page1.png)
+![Dashboard Page 1](./dashboard_page1.png)
 
 ### Page 2
-![Dashboard Page 2](Images/dashboard_page2.png)
+![Dashboard Page 2](./dashboard_page2.png)
 
 ### Page 3
-![Dashboard Page 3](Images/dashboard_page3.png)
+![Dashboard Page 3](./dashboard_page3.png)
 
 ### Page 4
-![Dashboard Page 4](Images/dashboard_page4.png)
+![Dashboard Page 4](./dashboard_page4.png)
 
 ## Data Processing
 
